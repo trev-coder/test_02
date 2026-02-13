@@ -1,0 +1,18 @@
+html{background-color: palevioletred;}
+#Main{width:50%; margin-left: 25%; ;}
+#puss{border: 5px solid white; width:100%;}
+#Bold
+{font-family: "Libre Baskerville", serif; 
+    text-align: center; 
+    color: white; 
+    background-color: black;
+    
+    text-transform: capitalize;
+    text-transform: uppercase;
+}
+#text
+{
+    text-align: center; 
+    margin: 0px;
+    color: black; 
+}
